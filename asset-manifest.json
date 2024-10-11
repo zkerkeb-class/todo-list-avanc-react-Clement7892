@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/todo-list-avanc-react-Clement7892/static/css/main.b1bcab12.css",
-    "main.js": "/todo-list-avanc-react-Clement7892/static/js/main.f9b3035c.js",
+    "main.css": "/todo-list-avanc-react-Clement7892/static/css/main.c1e1b097.css",
+    "main.js": "/todo-list-avanc-react-Clement7892/static/js/main.2544e87e.js",
     "static/js/453.d0e005c3.chunk.js": "/todo-list-avanc-react-Clement7892/static/js/453.d0e005c3.chunk.js",
     "index.html": "/todo-list-avanc-react-Clement7892/index.html",
-    "main.b1bcab12.css.map": "/todo-list-avanc-react-Clement7892/static/css/main.b1bcab12.css.map",
-    "main.f9b3035c.js.map": "/todo-list-avanc-react-Clement7892/static/js/main.f9b3035c.js.map",
+    "main.c1e1b097.css.map": "/todo-list-avanc-react-Clement7892/static/css/main.c1e1b097.css.map",
+    "main.2544e87e.js.map": "/todo-list-avanc-react-Clement7892/static/js/main.2544e87e.js.map",
     "453.d0e005c3.chunk.js.map": "/todo-list-avanc-react-Clement7892/static/js/453.d0e005c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1bcab12.css",
-    "static/js/main.f9b3035c.js"
+    "static/css/main.c1e1b097.css",
+    "static/js/main.2544e87e.js"
   ]
 }
