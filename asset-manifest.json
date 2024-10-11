@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-list-avanc-react-Clement7892/static/css/main.b1bcab12.css",
+    "main.js": "/todo-list-avanc-react-Clement7892/static/js/main.f9b3035c.js",
+    "static/js/453.d0e005c3.chunk.js": "/todo-list-avanc-react-Clement7892/static/js/453.d0e005c3.chunk.js",
+    "index.html": "/todo-list-avanc-react-Clement7892/index.html",
+    "main.b1bcab12.css.map": "/todo-list-avanc-react-Clement7892/static/css/main.b1bcab12.css.map",
+    "main.f9b3035c.js.map": "/todo-list-avanc-react-Clement7892/static/js/main.f9b3035c.js.map",
+    "453.d0e005c3.chunk.js.map": "/todo-list-avanc-react-Clement7892/static/js/453.d0e005c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1bcab12.css",
+    "static/js/main.f9b3035c.js"
+  ]
+}
